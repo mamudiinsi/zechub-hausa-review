@@ -18,7 +18,7 @@ No conflicts.
 
 | # | ID | English | Meaning | Occurrences | Seen today in `ha` pages | Proposed | ✅ Confirmed | Notes |
 |---|---|---|---|---:|---|---|---|---|
-| 1 | wallet | wallet | App or device that holds the keys to your coins and lets you send and receive them. | 1,694 | (no ha pages yet) | |  |  |
+| 1 | wallet | wallet | App or device that holds the keys to your coins and lets you send and receive them. | 1,694 | (no ha pages yet) | wallet|  keep English|  |
 | 2 | shielded | shielded | Protected by Zcash's zero-knowledge encryption: a shielded address, transaction or pool hides sender, receiver and amount. Not: encrypted (generic). Translate 'encrypted' normally. | 1,433 | (no ha pages yet) | |  |  |
 | 3 | transaction | transaction | A transfer of coins recorded on the blockchain. | 1,281 | (no ha pages yet) | |  |  |
 | 4 | address | address | A string that identifies where to send coins (shielded z-address, unified address, transparent t-address). Not: a street address, or 'to address' (speak to, deal with). | 1,140 | (no ha pages yet) | |  |  |
