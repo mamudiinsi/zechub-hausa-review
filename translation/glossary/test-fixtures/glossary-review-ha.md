@@ -19,7 +19,8 @@ No conflicts.
 | # | ID | English | Meaning | Occurrences | Seen today in `ha` pages | Proposed | ✅ Confirmed | Notes |
 |---|---|---|---|---:|---|---|---|---|
 | 1 | wallet | wallet | App or device that holds the keys to your coins and lets you send and receive them. | 1,694 | (no ha pages yet) ||  keep English|Hausa crypto users commonly use the word wallet|
-| 2 | shielded | shielded | Protected by Zcash's zero-knowledge encryption: a shielded address, transaction or pool hides sender, receiver and amount. Not: encrypted (generic). Translate 'encrypted' normally. | 1,433 | (no ha pages yet) | |  |  |
+| 2 | shielded | shielded | Protected by Zcash's zero-knowledge encryption: a shielded address, transaction or pool hides sender, receiver and amount. Not: encrypted (generic). Translate 'encrypted' normally. | 1,433 | (no ha pages yet) | |
+Mai ɓoye bayanan ciniki  |  In Zcash, this keeps transaction details private.|
 | 3 | transaction | transaction | A transfer of coins recorded on the blockchain. | 1,281 | (no ha pages yet) | |  |  |
 | 4 | address | address | A string that identifies where to send coins (shielded z-address, unified address, transparent t-address). Not: a street address, or 'to address' (speak to, deal with). | 1,140 | (no ha pages yet) | |  |  |
 | 5 | privacy | privacy | Keeping your financial information hidden from others; the core value of Zcash. | 844 | (no ha pages yet) | |  |  |
