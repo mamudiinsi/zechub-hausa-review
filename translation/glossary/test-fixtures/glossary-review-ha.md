@@ -10,7 +10,8 @@ YADDA AKE CIKAWA
 
 - Ginshikin Notes (yana da muhimmanci): Ga duk layin da ka sauya ko ka sanya "keep English", rubuta gajeren bayani da kalmominka domin bayyana dalilin zaɓinka. Misali: "Wannan ita ce kalmar da masu amfani da dandamalin musayar kuɗi da wallet ke amfani da ita" ko "Wannan kalma tana nufin adireshin titi."
   
-Haka kuma, ka yi amfani da Notes idan kalmar da ta dace ta danganta da yanayin amfani da ita (aikatau ko suna, menu ko shafi), ko kuma idan bayanin wani layi bai fito fili ba. Ba za a amince da gyaran da ba a yi masa bayani a Notes ba.
+
+ Haka kuma, ka yi amfani da Notes idan kalmar da ta dace ta danganta da yanayin amfani da ita (aikatau ko suna, menu ko shafi), ko kuma idan bayanin wani layi bai fito fili ba. Ba za a amince da gyaran da ba a yi masa bayani a Notes ba.
 **How to fill in**
 
 HOW TO FILL IN
