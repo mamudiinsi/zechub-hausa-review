@@ -198,10 +198,11 @@ No conflicts.
 | 13 | exploreMenu.For Forks & Maintainers | For Forks & Maintainers | Ga masu ƙirƙirar fork da masu kula da shi | Refers to people who create project forks and maintain them. |
 | 14 | exploreMenu.Fork zechub-wiki | Fork zechub-wiki | keep English | zechub-wiki is a repository name, and Fork is a technical GitHub action. |
 | 15 | exploreMenu.Fork zechub | Fork zechub | keep English | zechub is a repository name, and Fork is a technical GitHub action. |
+
 ## Side menu on article pages
 (`sideMenu`: 2 labels)
 
-| # | ID | English | Hausa | ✅ Confirmed | Notes |
-|---:|---|---| (no ha pages yet) |---|---|
-| 1 | sideMenu.navigation | Navigation | (no ha pages yet) |  |  |
-| 2 | sideMenu.explore | Explore | (no ha pages yet) |  |  |
+| # | ID | English | Confirmed | Notes |
+|---:|---|---|---|---|
+| 1 | sideMenu.navigation | Navigation | Kewayawa | A concise Hausa term for navigating between website sections. |
+| 2 | sideMenu.explore | Explore | Bincika | A short menu label inviting users to discover more content. |
