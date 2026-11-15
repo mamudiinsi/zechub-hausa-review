@@ -4,11 +4,13 @@ Glossary version 1. Kit: pages.
 
 YADDA AKE CIKAWA
 
-Ginshikin ✅: Rubuta "OK" idan fassarar da aka nuna ta dace, "keep English" idan kana son a bar kalmar da Turanci, ko kuma fassarar da kake ganin za ka yi amfani da ita. Fassara guda ɗaya kawai a kowace cell. Ka bar wajen babu komai idan ba ka da tabbaci. Kada ka yi gyara a ginshikin ID.
 
-Ginshikin Notes (yana da muhimmanci): Ga duk layin da ka sauya ko ka sanya "keep English", rubuta gajeren bayani da kalmominka domin bayyana dalilin zaɓinka. Misali: "Wannan ita ce kalmar da masu amfani da dandamalin musayar kuɗi da wallet ke amfani da ita" ko "Wannan kalma tana nufin adireshin titi."
+- Ginshikin ✅: Rubuta "OK" idan fassarar da aka nuna ta dace, "keep English" idan kana son a bar kalmar da Turanci, ko kuma fassarar da kake ganin za ka yi amfani da ita. Fassara guda ɗaya kawai a kowace cell. Ka bar wajen babu komai idan ba ka da tabbaci. Kada ka yi gyara a ginshikin ID.
+
+
+- Ginshikin Notes (yana da muhimmanci): Ga duk layin da ka sauya ko ka sanya "keep English", rubuta gajeren bayani da kalmominka domin bayyana dalilin zaɓinka. Misali: "Wannan ita ce kalmar da masu amfani da dandamalin musayar kuɗi da wallet ke amfani da ita" ko "Wannan kalma tana nufin adireshin titi."
   
- Haka kuma, ka yi amfani da Notes idan kalmar da ta dace ta danganta da yanayin amfani da ita (aikatau ko suna, menu ko shafi), ko kuma idan bayanin wani layi bai fito fili ba. Ba za a amince da gyaran da ba a yi masa bayani a Notes ba.
+Haka kuma, ka yi amfani da Notes idan kalmar da ta dace ta danganta da yanayin amfani da ita (aikatau ko suna, menu ko shafi), ko kuma idan bayanin wani layi bai fito fili ba. Ba za a amince da gyaran da ba a yi masa bayani a Notes ba.
 **How to fill in**
 
 HOW TO FILL IN
