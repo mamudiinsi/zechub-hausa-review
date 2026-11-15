@@ -181,24 +181,23 @@ No conflicts.
 ## Yellow coin menu (bottom right)
 (`exploreMenu`: 15 labels)
 
-| # | ID | English | Hausa | ✅ Confirmed | Notes |
-|---:|---|---| (no ha pages yet) |---|---|
-| 1 | exploreMenu.Full Explore | Full Explore | (no ha pages yet) |  |  |
-| 2 | exploreMenu.Start Here | Start Here | (no ha pages yet) |  |  |
-| 3 | exploreMenu.Tutorials | Tutorials | (no ha pages yet) |  |  |
-| 4 | exploreMenu.Using Zcash | Using Zcash | (no ha pages yet) |  |  |
-| 5 | exploreMenu.Guides | Guides | (no ha pages yet) |  |  |
-| 6 | exploreMenu.Zcash Tech | Zcash Tech | (no ha pages yet) |  |  |
-| 7 | exploreMenu.Zcash Organizations | Zcash Organizations | (no ha pages yet) |  |  |
-| 8 | exploreMenu.Zcash Community | Zcash Community | (no ha pages yet) |  |  |
-| 9 | exploreMenu.Privacy Tools | Privacy Tools | (no ha pages yet) |  |  |
-| 10 | exploreMenu.Research | Research | (no ha pages yet) |  |  |
-| 11 | exploreMenu.Glossary & FAQs | Glossary & FAQs | (no ha pages yet) |  |  |
-| 12 | exploreMenu.Contribute | Contribute | (no ha pages yet) |  |  |
-| 13 | exploreMenu.For Forks & Maintainers | For Forks & Maintainers | (no ha pages yet) |  |  |
-| 14 | exploreMenu.Fork zechub-wiki | Fork zechub-wiki | (no ha pages yet) |  |  |
-| 15 | exploreMenu.Fork zechub | Fork zechub | (no ha pages yet) |  |  |
-
+  | # | ID | English | Confirmed | Notes |
+|---:|---|---|---|---|
+| 1 | exploreMenu.Full Explore | Full Explore | Cikakken bincike | Refers to exploring all available sections and content on the website. |
+| 2 | exploreMenu.Start Here | Start Here | Fara daga nan | A short menu label directing users to the starting point. |
+| 3 | exploreMenu.Tutorials | Tutorials | Koyarwa | A concise Hausa term for instructional content. |
+| 4 | exploreMenu.Using Zcash | Using Zcash | Amfani da Zcash | Refers to ways people can use Zcash. |
+| 5 | exploreMenu.Guides | Guides | Jagorori | Refers to resources that guide users through different topics. |
+| 6 | exploreMenu.Zcash Tech | Zcash Tech | Fasahar Zcash | Refers to the technology behind Zcash. |
+| 7 | exploreMenu.Zcash Organizations | Zcash Organizations | Ƙungiyoyin Zcash | Refers to organizations connected to the Zcash ecosystem. |
+| 8 | exploreMenu.Zcash Community | Zcash Community | Al'ummar Zcash | Refers to people connected through the Zcash community. |
+| 9 | exploreMenu.Privacy Tools | Privacy Tools | Kayan aikin kare sirri | Refers to tools that help protect users' privacy. |
+| 10 | exploreMenu.Research | Research | Bincike | A short Hausa translation for research and investigation. |
+| 11 | exploreMenu.Glossary & FAQs | Glossary & FAQs | Ma'anar kalmomi da tambayoyin da ake yawan yi | Refers to explanations of terms and frequently asked questions. |
+| 12 | exploreMenu.Contribute | Contribute | Ba da gudummawa | Refers to supporting a project through useful contributions. |
+| 13 | exploreMenu.For Forks & Maintainers | For Forks & Maintainers | Ga masu ƙirƙirar fork da masu kula da shi | Refers to people who create project forks and maintain them. |
+| 14 | exploreMenu.Fork zechub-wiki | Fork zechub-wiki | keep English | zechub-wiki is a repository name, and Fork is a technical GitHub action. |
+| 15 | exploreMenu.Fork zechub | Fork zechub | keep English | zechub is a repository name, and Fork is a technical GitHub action. |
 ## Side menu on article pages
 (`sideMenu`: 2 labels)
 
