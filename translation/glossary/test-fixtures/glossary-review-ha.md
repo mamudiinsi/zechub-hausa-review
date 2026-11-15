@@ -86,11 +86,11 @@ No conflicts.
 
 | # | ID | Question | Current | ✅ Answer | Notes |
 |---|---|---|---|---|---|
-| A | register | How to address the reader (formal or informal 'you'), and does it differ between tutorials and technical pages? |  |  |  |
-| B | english_in_brackets | When an English term is kept, add the English in brackets: never / first-use / always? |  |  |  |
+| A | register | How to address the reader (formal or informal 'you'), and does it differ between tutorials and technical pages? |  |formal (ku)  |  Use respectful “ku” when addressing readers. Apply it consistently in tutorials and technical pages.|
+| B | english_in_brackets | When an English term is kept, add the English in brackets: never / first-use / always? |  |  first use|  Include the English term in brackets the first time it appears, then use the Hausa translation consistently afterward|
 | C | loanwords | Crypto loanwords (blockchain, token, smart contract): keep English / translate? |  |  |  |
-| D | capitalise_kept_english_at_sentence_start | Capitalise a kept English term at the start of a sentence (yes / no)? |  |  |  |
-| E | numerals | Digits: western (0-9) only, or native digits allowed? |  |  |  |
-| F | decimal_separator | Decimal separator (0.5 or 0,5)? |  |  |  |
-| G | quotes | Quotation marks? |  |  |  |
-| H | abbreviations_with_full_stop | Abbreviations written with a full stop that do not end a sentence? |  |  |  |
+| D | capitalise_kept_english_at_sentence_start | Capitalise a kept English term at the start of a sentence (yes / no)? |  |translate where possible| Translate crypto terms when a clear and natural Hausa equivalent exists. Keep English only when translation would distort the technical meaning or cause confusion. |
+| E | numerals | Digits: western (0-9) only, or native digits allowed? |  | Western digits (0-9)only|Use Western digits (0–9) consistently throughout all Hausa translations.  |
+| F | decimal_separator | Decimal separator (0.5 or 0,5)? |  |0.5  | Use a full stop (.) as the decimal separator consistently. |
+| G | quotes | Quotation marks? |  | “…” |  Use curly double quotation marks consistently for quoted text.|
+| H | abbreviations_with_full_stop | Abbreviations written with a full stop that do not end a sentence? |  |no  | Do not use a full stop after abbreviations unless required by an established style or name. |
