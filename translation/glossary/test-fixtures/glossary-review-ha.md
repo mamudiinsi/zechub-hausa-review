@@ -2,7 +2,7 @@ to# ZecHub glossary review: Hausa (`ha`)
 
 Glossary version 1. Kit: pages.
 
-Yadda ake cikawa
+YADDA AKE CIKAWA
 
 Ginshikin ✅: Rubuta "OK" idan fassarar da aka nuna ta dace, "keep English" idan kana son a bar kalmar da Turanci, ko kuma fassarar da kake ganin za ka yi amfani da ita. Fassara guda ɗaya kawai a kowace cell. Ka bar wajen babu komai idan ba ka da tabbaci. Kada ka yi gyara a ginshikin ID.
 
@@ -10,6 +10,8 @@ Ginshikin Notes (yana da muhimmanci): Ga duk layin da ka sauya ko ka sanya "keep
   
  Haka kuma, ka yi amfani da Notes idan kalmar da ta dace ta danganta da yanayin amfani da ita (aikatau ko suna, menu ko shafi), ko kuma idan bayanin wani layi bai fito fili ba. Ba za a amince da gyaran da ba a yi masa bayani a Notes ba.
 **How to fill in**
+
+HOW TO FILL IN
 
 - **✅ column:** write `OK` if the shown rendering is right, `keep English` to keep the English word, or the rendering you would use. One rendering per cell. Leave it empty if you are not sure. Do not edit the ID column.
 - **Notes column (important):** for every row you change or mark `keep English`, write one short line in your own words saying why, for example "this is what local exchanges and wallets use" or "this word means a street address". Also use Notes when the right word depends on the context (verb or noun, menu or page), or when a row is unclear. Changes without a note may not be accepted.
