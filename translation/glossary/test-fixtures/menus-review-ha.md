@@ -18,7 +18,7 @@ No conflicts.
 
 | # | ID | English | Hausa | ✅ Confirmed | Notes |
 |---:|---|---| (no ha pages yet) |---|---|
-| 1 | navigation.wallets | Wallets | (no ha pages yet) |  |  |
+| 1 | navigation.wallets | Wallets | (no ha pages yet) | keep English| Wallet is a commonly used term in Hausa crypto communities. |
 | 2 | navigation.guides | Guides | (no ha pages yet) |  |  |
 | 3 | navigation.tutorials | Tutorials | (no ha pages yet) |  |  |
 | 4 | navigation.governance | Governance | (no ha pages yet) |  |  |
