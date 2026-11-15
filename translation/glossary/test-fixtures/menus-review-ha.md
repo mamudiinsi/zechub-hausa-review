@@ -94,90 +94,89 @@ No conflicts.
 
 ## Submenu entries (page names in the menus)
 (`menuLabels`: 81 labels)
-
-| # | ID | English | Hausa | ✅ Confirmed | Notes |
-|---:|---|---| (no ha pages yet) |---|---|
-| 1 | menuLabels.Accept Payments | Accept Payments | (no ha pages yet) |  |  |
-| 2 | menuLabels.Akash Network Zebra | Akash Network Zebra | (no ha pages yet) |  |  |
-| 3 | menuLabels.Avalanche RedBridge | Avalanche RedBridge | (no ha pages yet) |  |  |
-| 4 | menuLabels.BTCPayServer Zcash Plugin | BTCPayServer Zcash Plugin | (no ha pages yet) |  |  |
-| 5 | menuLabels.Blockchain Explorers | Blockchain Explorers | (no ha pages yet) |  |  |
-| 6 | menuLabels.Brand | Brand | (no ha pages yet) |  |  |
-| 7 | menuLabels.Buying ZEC | Buying ZEC | (no ha pages yet) |  |  |
-| 8 | menuLabels.Community Blogs | Community Blogs | (no ha pages yet) |  |  |
-| 9 | menuLabels.Community Forum | Community Forum | (no ha pages yet) |  |  |
-| 10 | menuLabels.Community Links | Community Links | (no ha pages yet) |  |  |
-| 11 | menuLabels.Community Projects | Community Projects | (no ha pages yet) |  |  |
-| 12 | menuLabels.Contribute | Contribute | (no ha pages yet) |  |  |
-| 13 | menuLabels.Cypherpunk Zero NFT | Cypherpunk Zero NFT | (no ha pages yet) |  |  |
-| 14 | menuLabels.DAO | DAO | (no ha pages yet) |  |  |
-| 15 | menuLabels.Developers | Developers | (no ha pages yet) |  |  |
-| 16 | menuLabels.Donations | Donations | (no ha pages yet) |  |  |
-| 17 | menuLabels.Exchanges | Exchanges | (no ha pages yet) |  |  |
-| 18 | menuLabels.Extras | Extras | (no ha pages yet) |  |  |
-| 19 | menuLabels.Faucets | Faucets | (no ha pages yet) |  |  |
-| 20 | menuLabels.Free2z Live | Free2z Live | (no ha pages yet) |  |  |
-| 21 | menuLabels.Freelance Privacy | Freelance Privacy | (no ha pages yet) |  |  |
-| 22 | menuLabels.Governance | Governance | (no ha pages yet) |  |  |
-| 23 | menuLabels.Guides | Guides | (no ha pages yet) |  |  |
-| 24 | menuLabels.How to Participate | How to Participate | (no ha pages yet) |  |  |
-| 25 | menuLabels.Journalist Privacy | Journalist Privacy | (no ha pages yet) |  |  |
-| 26 | menuLabels.Keeping Records | Keeping Records | (no ha pages yet) |  |  |
-| 27 | menuLabels.Memos | Memos | (no ha pages yet) |  |  |
-| 28 | menuLabels.Mobile Top Ups | Mobile Top Ups | (no ha pages yet) |  |  |
-| 29 | menuLabels.Newsletter | Newsletter | (no ha pages yet) |  |  |
-| 30 | menuLabels.Nym VPN | Nym VPN | (no ha pages yet) |  |  |
-| 31 | menuLabels.Payment Processors | Payment Processors | (no ha pages yet) |  |  |
-| 32 | menuLabels.Payment Request URIs | Payment Request URIs | (no ha pages yet) |  |  |
-| 33 | menuLabels.Podcast | Podcast | (no ha pages yet) |  |  |
-| 34 | menuLabels.Private Community Treasury | Private Community Treasury | (no ha pages yet) |  |  |
-| 35 | menuLabels.Raspberry Pi 4 Full Node | Raspberry Pi 4 Full Node | (no ha pages yet) |  |  |
-| 36 | menuLabels.Raspberry pi 4 Zebra Node | Raspberry pi 4 Zebra Node | (no ha pages yet) |  |  |
-| 37 | menuLabels.Raspberry pi5 Zebra Lightwalletd Zingo | Raspberry pi5 Zebra Lightwalletd Zingo | (no ha pages yet) |  |  |
-| 38 | menuLabels.Recovering Funds | Recovering Funds | (no ha pages yet) |  |  |
-| 39 | menuLabels.Research | Research | (no ha pages yet) |  |  |
-| 40 | menuLabels.Send Money Privately | Send Money Privately | (no ha pages yet) |  |  |
-| 41 | menuLabels.Shielded Pools | Shielded Pools | (no ha pages yet) |  |  |
-| 42 | menuLabels.Sitemap | Sitemap | (no ha pages yet) |  |  |
-| 43 | menuLabels.Start Here | Start Here | (no ha pages yet) |  |  |
-| 44 | menuLabels.Store | Store | (no ha pages yet) |  |  |
-| 45 | menuLabels.Tools | Tools | (no ha pages yet) |  |  |
-| 46 | menuLabels.Transactions | Transactions | (no ha pages yet) |  |  |
-| 47 | menuLabels.Transparent Exchange Addresses | Transparent Exchange Addresses | (no ha pages yet) |  |  |
-| 48 | menuLabels.Tutorials | Tutorials | (no ha pages yet) |  |  |
-| 49 | menuLabels.Use Cases | Use Cases | (no ha pages yet) |  |  |
-| 50 | menuLabels.Using ZEC Privately | Using ZEC Privately | (no ha pages yet) |  |  |
-| 51 | menuLabels.Using ZEC in DeFi | Using ZEC in DeFi | (no ha pages yet) |  |  |
-| 52 | menuLabels.Using Zcash | Using Zcash | (no ha pages yet) |  |  |
-| 53 | menuLabels.Visual Identity | Visual Identity | (no ha pages yet) |  |  |
-| 54 | menuLabels.Visualizer | Visualizer | (no ha pages yet) |  |  |
-| 55 | menuLabels.Visualizing Zcash Addresses | Visualizing Zcash Addresses | (no ha pages yet) |  |  |
-| 56 | menuLabels.Visualizing the Zcash Network | Visualizing the Zcash Network | (no ha pages yet) |  |  |
-| 57 | menuLabels.Wallets | Wallets | (no ha pages yet) |  |  |
-| 58 | menuLabels.Ywallet FROST Demo | Ywallet FROST Demo | (no ha pages yet) |  |  |
-| 59 | menuLabels.ZIPs & Grants | ZIPs & Grants | (no ha pages yet) |  |  |
-| 60 | menuLabels.Zcash Community | Zcash Community | (no ha pages yet) |  |  |
-| 61 | menuLabels.Zcash Ecosystem Security | Zcash Ecosystem Security | (no ha pages yet) |  |  |
-| 62 | menuLabels.Zcash Governance | Zcash Governance | (no ha pages yet) |  |  |
-| 63 | menuLabels.Zcash Improvement Proposals | Zcash Improvement Proposals | (no ha pages yet) |  |  |
-| 64 | menuLabels.Zcash Media | Zcash Media | (no ha pages yet) |  |  |
-| 65 | menuLabels.Zcash Organizations | Zcash Organizations | (no ha pages yet) |  |  |
-| 66 | menuLabels.Zcash Podcasts | Zcash Podcasts | (no ha pages yet) |  |  |
-| 67 | menuLabels.Zcon Archive | Zcon Archive | (no ha pages yet) |  |  |
-| 68 | menuLabels.Zcon Vozes Archive | Zcon Vozes Archive | (no ha pages yet) |  |  |
-| 69 | menuLabels.Zenith Installation | Zenith Installation | (no ha pages yet) |  |  |
-| 70 | menuLabels.Zero-Knowledge vs Decoys | Zero-Knowledge vs Decoys | (no ha pages yet) |  |  |
-| 71 | menuLabels.Zgo Payment Processor | Zgo Payment Processor | (no ha pages yet) |  |  |
-| 72 | menuLabels.Zingolib and Zaino Tutorial | Zingolib and Zaino Tutorial | (no ha pages yet) |  |  |
-| 73 | menuLabels.Zkool Multisig | Zkool Multisig | (no ha pages yet) |  |  |
-| 74 | menuLabels.Custodial Exchanges | Custodial Exchanges | (no ha pages yet) |  |  |
-| 75 | menuLabels.Zcash Use Cases | Zcash Use Cases | (no ha pages yet) |  |  |
-| 76 | menuLabels.Zcash Tech | Zcash Tech | (no ha pages yet) |  |  |
-| 77 | menuLabels.Privacy Tools | Privacy Tools | (no ha pages yet) |  |  |
-| 78 | menuLabels.Glossary & FAQ's | Glossary & FAQ's | (no ha pages yet) |  |  |
-| 79 | menuLabels.Pay for AI | Pay for AI | (no ha pages yet) |  |  |
-| 80 | menuLabels.Community Building | Community Building | (no ha pages yet) |  |  |
-| 81 | menuLabels.Nym Mixnet Wallet Setup | Nym Mixnet Wallet Setup | (no ha pages yet) |  |  |
+| # | ID | English | Confirmed | Notes |
+|---:|---|---|---|---|
+| 1 | menuLabels.Accept Payments | Accept Payments | Karɓar biyan kuɗi | Refers to accepting ZEC as payment for goods or services. |
+| 2 | menuLabels.Akash Network Zebra | Akash Network Zebra | keep English | Akash Network and Zebra are specific project and technology names. |
+| 3 | menuLabels.Avalanche RedBridge | Avalanche RedBridge | keep English | Avalanche RedBridge is a specific project name. |
+| 4 | menuLabels.BTCPayServer Zcash Plugin | BTCPayServer Zcash Plugin | keep English | BTCPayServer is a product name, and Plugin is a common software term. |
+| 5 | menuLabels.Blockchain Explorers | Blockchain Explorers | Masu binciken blockchain | Refers to tools used to search and view blockchain data. |
+| 6 | menuLabels.Brand | Brand | Alamar kasuwanci | Refers to the identity associated with an organization or product. |
+| 7 | menuLabels.Buying ZEC | Buying ZEC | Siyan ZEC | A short Hausa translation for purchasing ZEC. |
+| 8 | menuLabels.Community Blogs | Community Blogs | Shafukan yanar gizon al'umma | Refers to blog posts published by members of the community. |
+| 9 | menuLabels.Community Forum | Community Forum | Dandalin tattaunawar al'umma | Refers to an online space where community members discuss topics. |
+| 10 | menuLabels.Community Links | Community Links | Hanyoyin haɗin al'umma | Refers to useful links related to the community. |
+| 11 | menuLabels.Community Projects | Community Projects | Ayyukan al'umma | Refers to projects created or managed by community members. |
+| 12 | menuLabels.Contribute | Contribute | Ba da gudummawa | Refers to supporting a project through useful contributions. |
+| 13 | menuLabels.Cypherpunk Zero NFT | Cypherpunk Zero NFT | keep English | Cypherpunk Zero NFT is a specific project name. |
+| 14 | menuLabels.DAO | DAO | keep English | DAO is an established technical term in decentralized communities. |
+| 15 | menuLabels.Developers | Developers | Masu haɓakawa | Refers to people who build and improve software. |
+| 16 | menuLabels.Donations | Donations | Gudummawa | Refers to money or resources given to support a cause or project. |
+| 17 | menuLabels.Exchanges | Exchanges | Dandalan musayar kuɗaɗen dijital | Refers to platforms where users buy and sell cryptocurrencies. |
+| 18 | menuLabels.Extras | Extras | Ƙarin abubuwa | Refers to additional content or features. |
+| 19 | menuLabels.Faucets | Faucets | Wuraren samun ZEC kyauta | Refers to platforms that distribute small amounts of ZEC for free. |
+| 20 | menuLabels.Free2z Live | Free2z Live | keep English | Free2z Live is a specific service name. |
+| 21 | menuLabels.Freelance Privacy | Freelance Privacy | Sirrin masu aikin kai | Refers to protecting freelancers' privacy when receiving payments. |
+| 22 | menuLabels.Governance | Governance | Tsarin tafiyar da mulki | Refers to how decisions and rules are managed in a project. |
+| 23 | menuLabels.Guides | Guides | Jagorori | Refers to instructional resources that help users understand a topic. |
+| 24 | menuLabels.How to Participate | How to Participate | Yadda ake shiga | A short translation explaining how users can take part. |
+| 25 | menuLabels.Journalist Privacy | Journalist Privacy | Sirrin 'yan jarida | Refers to protecting journalists' privacy when using Zcash. |
+| 26 | menuLabels.Keeping Records | Keeping Records | Adana bayanai | Refers to storing and maintaining important records. |
+| 27 | menuLabels.Memos | Memos | Saƙonnin da aka haɗa | Refers to short messages attached to Zcash transactions. |
+| 28 | menuLabels.Mobile Top Ups | Mobile Top Ups | Cajin wayar hannu | Refers to adding credit to a mobile phone using ZEC. |
+| 29 | menuLabels.Newsletter | Newsletter | Jaridar labarai | Refers to regular news and updates shared with subscribers. |
+| 30 | menuLabels.Nym VPN | Nym VPN | keep English | Nym VPN is a product name. |
+| 31 | menuLabels.Payment Processors | Payment Processors | Masu sarrafa biyan kuɗi | Refers to services that process payments for businesses. |
+| 32 | menuLabels.Payment Request URIs | Payment Request URIs | Adireshin neman biyan kuɗi | Refers to a URI containing details for requesting a payment. |
+| 33 | menuLabels.Podcast | Podcast | keep English | Podcast is a commonly used term, so keeping it in English maintains clarity. |
+| 34 | menuLabels.Private Community Treasury | Private Community Treasury | Taskar kuɗin al'umma ta sirri | Refers to community funds managed privately for shared activities. |
+| 35 | menuLabels.Raspberry Pi 4 Full Node | Raspberry Pi 4 Full Node | keep English | Raspberry Pi 4 and Full Node are established technical terms. |
+| 36 | menuLabels.Raspberry pi 4 Zebra Node | Raspberry pi 4 Zebra Node | keep English | Raspberry Pi 4 and Zebra are technical names. |
+| 37 | menuLabels.Raspberry pi5 Zebra Lightwalletd Zingo | Raspberry pi5 Zebra Lightwalletd Zingo | keep English | Raspberry Pi 5, Zebra, Lightwalletd and Zingo are technical names. |
+| 38 | menuLabels.Recovering Funds | Recovering Funds | Maido da kuɗaɗe | Refers to restoring access to funds in a wallet. |
+| 39 | menuLabels.Research | Research | Bincike | A short Hausa translation for research and investigation. |
+| 40 | menuLabels.Send Money Privately | Send Money Privately | Aika kuɗi cikin sirri | Refers to sending money while keeping transaction details private. |
+| 41 | menuLabels.Shielded Pools | Shielded Pools | Rukunin kuɗaɗen sirri | Refers to pools of ZEC held in shielded addresses for privacy. |
+| 42 | menuLabels.Sitemap | Sitemap | Taswirar shafi | Refers to a structured overview of the pages on a website. |
+| 43 | menuLabels.Start Here | Start Here | Fara daga nan | A short menu label directing users to the starting point. |
+| 44 | menuLabels.Store | Store | Shago | A short Hausa translation for a place where products are sold. |
+| 45 | menuLabels.Tools | Tools | Kayan aiki | Refers to tools and resources that help users perform tasks. |
+| 46 | menuLabels.Transactions | Transactions | Mu'amaloli | Refers to transfers or exchanges recorded on the blockchain. |
+| 47 | menuLabels.Transparent Exchange Addresses | Transparent Exchange Addresses | Adireshoshin musayar kuɗi na bayyane | Refers to publicly visible Zcash addresses used by exchanges. |
+| 48 | menuLabels.Tutorials | Tutorials | Koyarwa | A concise Hausa term for instructional content. |
+| 49 | menuLabels.Use Cases | Use Cases | Amfanin amfani | Refers to practical ways a technology or service can be used. |
+| 50 | menuLabels.Using ZEC Privately | Using ZEC Privately | Amfani da ZEC cikin sirri | Refers to using ZEC while protecting transaction privacy. |
+| 51 | menuLabels.Using ZEC in DeFi | Using ZEC in DeFi | Amfani da ZEC a DeFi | Refers to using ZEC in decentralized finance services. |
+| 52 | menuLabels.Using Zcash | Using Zcash | Amfani da Zcash | Refers to ways people can use Zcash. |
+| 53 | menuLabels.Visual Identity | Visual Identity | Siffar gani ta alama | Refers to the visual elements that identify a brand or organization. |
+| 54 | menuLabels.Visualizer | Visualizer | Mai nuna bayanai | Refers to a tool that displays information visually. |
+| 55 | menuLabels.Visualizing Zcash Addresses | Visualizing Zcash Addresses | Nuna adireshoshin Zcash | Refers to displaying Zcash addresses visually. |
+| 56 | menuLabels.Visualizing the Zcash Network | Visualizing the Zcash Network | Nuna tsarin sadarwar Zcash | Refers to displaying the structure and connections of the Zcash network. |
+| 57 | menuLabels.Wallets | Wallets | keep English | Wallet is a commonly used term in Hausa crypto communities. |
+| 58 | menuLabels.Ywallet FROST Demo | Ywallet FROST Demo | keep English | Ywallet and FROST are technical names. |
+| 59 | menuLabels.ZIPs & Grants | ZIPs & Grants | keep English | ZIPs is an established Zcash term, and Grants is commonly used in project funding. |
+| 60 | menuLabels.Zcash Community | Zcash Community | Al'ummar Zcash | Refers to people connected through the Zcash community. |
+| 61 | menuLabels.Zcash Ecosystem Security | Zcash Ecosystem Security | Tsaron duniyar Zcash | Refers to security across Zcash projects, tools and services. |
+| 62 | menuLabels.Zcash Governance | Zcash Governance | Tsarin tafiyar da mulkin Zcash | Refers to how decisions and rules are managed within Zcash. |
+| 63 | menuLabels.Zcash Improvement Proposals | Zcash Improvement Proposals | Shawarwarin inganta Zcash | Refers to proposals for improving the Zcash protocol and ecosystem. |
+| 64 | menuLabels.Zcash Media | Zcash Media | Kafofin watsa labarai na Zcash | Refers to media content and publications about Zcash. |
+| 65 | menuLabels.Zcash Organizations | Zcash Organizations | Ƙungiyoyin Zcash | Refers to organizations connected to the Zcash ecosystem. |
+| 66 | menuLabels.Zcash Podcasts | Zcash Podcasts | keep English | Podcast is a commonly used term, so keeping it in English maintains clarity. |
+| 67 | menuLabels.Zcon Archive | Zcon Archive | Rumbun tarihin Zcon | Refers to an archive of past Zcon events and related materials. |
+| 68 | menuLabels.Zcon Vozes Archive | Zcon Vozes Archive | keep English | Zcon Vozes is a specific archive name. |
+| 69 | menuLabels.Zenith Installation | Zenith Installation | Shigar da Zenith | Refers to the process of installing Zenith software. |
+| 70 | menuLabels.Zero-Knowledge vs Decoys | Zero-Knowledge vs Decoys | Zero-Knowledge da tsarin ɓatar da bayanai | Refers to a comparison between zero-knowledge technology and decoy systems. |
+| 71 | menuLabels.Zgo Payment Processor | Zgo Payment Processor | keep English | Zgo is a product name, and the full label identifies its payment service. |
+| 72 | menuLabels.Zingolib and Zaino Tutorial | Zingolib and Zaino Tutorial | keep English | Zingolib and Zaino are technical project names. |
+| 73 | menuLabels.Zkool Multisig | Zkool Multisig | keep English | Zkool is a product name, and Multisig is an established technical term. |
+| 74 | menuLabels.Custodial Exchanges | Custodial Exchanges | Dandalan musayar kuɗi masu kula da kadarori | Refers to exchanges that hold and manage users' crypto assets. |
+| 75 | menuLabels.Zcash Use Cases | Zcash Use Cases | Amfanin Zcash | Refers to practical ways people can use Zcash. |
+| 76 | menuLabels.Zcash Tech | Zcash Tech | Fasahar Zcash | Refers to the technology behind Zcash. |
+| 77 | menuLabels.Privacy Tools | Privacy Tools | Kayan aikin kare sirri | Refers to tools that help protect users' privacy. |
+| 78 | menuLabels.Glossary & FAQ's | Glossary & FAQ's | Ma'anar kalmomi da tambayoyin da ake yawan yi | Refers to explanations of terms and frequently asked questions. |
+| 79 | menuLabels.Pay for AI | Pay for AI | Biyan kuɗi don AI | Refers to paying for artificial intelligence services. |
+| 80 | menuLabels.Community Building | Community Building | Gina al'umma | Refers to activities that help grow and strengthen a community. |
+| 81 | menuLabels.Nym Mixnet Wallet Setup | Nym Mixnet Wallet Setup | Saita Wallet na Nym Mixnet | Refers to configuring a wallet for use with the Nym Mixnet. |
 
 ## Yellow coin menu (bottom right)
 (`exploreMenu`: 15 labels)
