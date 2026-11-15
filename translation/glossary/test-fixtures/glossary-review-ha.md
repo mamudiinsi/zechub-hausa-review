@@ -1,4 +1,4 @@
-# ZecHub glossary review: Hausa (`ha`)
+to# ZecHub glossary review: Hausa (`ha`)
 
 Glossary version 1. Kit: pages.
 
@@ -79,7 +79,7 @@ No conflicts.
 | 59 | permissionless | permissionless | Open to anyone without asking for approval. | 13 | (no ha pages yet) | | ba tare da izini ba|  Allows anyone to participate or use the system without requesting approval from a central authority.|
 | 60 | unlinkable | unlinkable | Impossible to connect to each other: an observer cannot tell that two items belong to the same person. Not: 'disconnected' or 'detachable'; the meaning is 'cannot be linked'. | 12 | (no ha pages yet) | | baza'a iya danganta su da juna ba|  Means two transactions or items cannot be linked to the same person by an observer.|
 | 61 | brand | brand | ZecHub or Zcash brand material: logos, colours, visual identity. Not: trademark (a legal term). | 4 | (no ha pages yet) | | alamar kasuwanci | Refers to ZecHub or Zcash visual identity, including logos, colours and design materials, not a legal trademark. |
-| 62 | visualizer | visualizer | A tool that draws Zcash network or address data as pictures. Not: visualizing / visualization (the activity), which is usually translated. | 1 | (no ha pages yet) | |  |  |
+| 62 | visualizer | visualizer | A tool that draws Zcash network or address data as pictures. Not: visualizing / visualization (the activity), which is usually translated. | 1 | (no ha pages yet) | |mai zana hotan bayanai  |A tool that turns Zcash network or address data into visual representations, such as charts or diagrams.  |
 
 ## General style questions
 (`style`: 8 questions)
